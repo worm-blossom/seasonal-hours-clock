@@ -1,3 +1,5 @@
+Repo migrated to https://codeberg.org/worm-blossom/seasonal-clock
+
 # Seasonal Hours Clock
 
 [See it live](https://seasonalclock.org)
